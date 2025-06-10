@@ -1,15 +1,18 @@
-header{
+*{
+    padding: 0;
+    margin: 0;
+}
 
+header{
     background-color: #32920c;
     color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 238 px 0;
+    padding: 28px 0;
 }
 
 .cabeçalho{
-
     width: 100%;
     font-size: 28px;
     font-weight: 600;
